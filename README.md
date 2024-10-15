@@ -3,7 +3,6 @@
 VanPasta_Jam here.
 
 - Student of UESTC (School HP: [CN](https://www.uestc.edu.cn/)/[EN](https://en.uestc.edu.cn/))
-- Currently studying C/C++
 - Is willing to create a personal website
 
 ## E-mail
